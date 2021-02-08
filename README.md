@@ -1,5 +1,5 @@
 # ARDUINOunoRelaydanFingerprint
-Ini untuk paduan antara fingerprint dan relay.</br>
+Ini untuk paduan antara fingerprint dan relay 2 channel.</br>
 Ketika fingerprint scan pertama akan menghidupkan relay 1 (R_MESIN)</br>
 Scan kedua akan menghidupkan relay 2 (R_KONTAKTOR)</br>
 Scan ketiga akan mematikan relay 2</b>
